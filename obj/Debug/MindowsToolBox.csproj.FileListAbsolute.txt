@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\MindowsToolBox\MindowsToolBox\bin\Debug\MindowsToolBox.exe.config
+C:\Users\Administrator\source\repos\MindowsToolBox\MindowsToolBox\bin\Debug\MindowsToolBox.exe
+C:\Users\Administrator\source\repos\MindowsToolBox\MindowsToolBox\bin\Debug\MindowsToolBox.pdb
+C:\Users\Administrator\source\repos\MindowsToolBox\MindowsToolBox\obj\Debug\MindowsToolBox.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\MindowsToolBox\MindowsToolBox\obj\Debug\MindowsToolBox.Form1.resources
+C:\Users\Administrator\source\repos\MindowsToolBox\MindowsToolBox\obj\Debug\MindowsToolBox.Properties.Resources.resources
+C:\Users\Administrator\source\repos\MindowsToolBox\MindowsToolBox\obj\Debug\MindowsToolBox.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MindowsToolBox\MindowsToolBox\obj\Debug\MindowsToolBox.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MindowsToolBox\MindowsToolBox\obj\Debug\MindowsToolBox.exe
+C:\Users\Administrator\source\repos\MindowsToolBox\MindowsToolBox\obj\Debug\MindowsToolBox.pdb
